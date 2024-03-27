@@ -1,4 +1,4 @@
-- hiii
+-
 - I'm Chenumala Keerthan(Kittu)
 - Methodist College of Engineering 
 - AI•DS(2022-26)
