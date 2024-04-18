@@ -1,5 +1,5 @@
 -
-- I'm Chenumalla Keerthan(Kittu)
+- Chenumalla Keerthan
 - Methodist College of Engineering 
 - AI•DS(2022-26)
 <!---
